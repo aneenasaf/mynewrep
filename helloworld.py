@@ -1,2 +1,2 @@
-if_name_ == '_main_':
-print('helloworld ')
+if __name__ == '__main__':
+    print('Hello World -Aneen')
